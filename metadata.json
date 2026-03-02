@@ -1,0 +1,5 @@
+{
+  "name": "google studio fronted beta",
+  "description": "Netflix-style application for group watching movies and series with real-time synchronization and chat.",
+  "requestFramePermissions": []
+}
